@@ -37,6 +37,6 @@ $$ V(S,1) = \max(S-K,0) \quad S \in [0,S_{max}] $$
 &nbsp;
 &nbsp;
 
-Here below there is a 3D plot that presents an example solution of the Black-Scholes equation:
+Here there is a 3D plot that presents an example solution of the Black-Scholes equation:
 
 ![](https://github.com/DawOp/Black-Scholes-Equation/blob/main/solution-plot.png)
